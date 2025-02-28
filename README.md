@@ -1,5 +1,5 @@
-# djOldAssemblerSource286
-Some of my old source code from 1990s. Uploading on the off chance someone finds this useful.
+# David Joffe old assembler source
+Some of my old assembler source code from the 1990s (286). Uploading on the off chance someone finds this useful.
 
 By: [David Joffe](https://djoffe.com/)
 
