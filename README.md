@@ -3,7 +3,7 @@ Some of my old assembler source code from the 1990s (286). Uploading on the off 
 
 By: [David Joffe](https://djoffe.com/)
 
-**djgame.asm:**
+**[djgame.asm](https://github.com/davidjoffe/djOldAssemblerSource286/blob/main/djgame.asm):**
 
 I found this old assembler code of mine amongst my old backups, and (after getting it working again in DOSbox in a 2022 attempt - see below), it indeed seems to be a prior attempt of mine to initially write [Dave Gnukem](https://github.com/davidjoffe/dave_gnukem) in 80286 assembly language in 1994, 16-bit EGA video - sometime in 1995 I (slightly more sensibly) started again in C++). This was using Turbo Assembler. Platform: DOS, or DOSbox.
 
@@ -19,7 +19,7 @@ I found this old assembler code of mine amongst my old backups, and (after getti
 ![2022-11-22 00_23_32_1994_asm_dosbox](https://user-images.githubusercontent.com/7451578/203170704-055da090-f0da-4f41-8ac7-d2641586798d.png)
 
 
-**pcxload:**
+**(pcxload)[https://github.com/davidjoffe/djOldAssemblerSource286/tree/main/pcxload]:**
 
 Tiny PCX loader and viewer in .asm from 1999. 16-bit x86 (80268 DOS with VGA).
 Builds to a .com DOS binary just 128 bytes in size that loads and displays a 320x200x256color pcx file specified on command line in VGA mode. Works in DOSBox.
